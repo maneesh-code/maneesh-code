@@ -5,7 +5,7 @@
 	<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
 
-<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+<p><em>Software Engineer at <a href="https://www.iquincesoft.com">Iquincesoft
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
 </em></p>
