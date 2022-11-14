@@ -11,7 +11,6 @@
 </em></p>
 
 [![Linkedin: Maneesh](https://img.shields.io/badge/-Maneesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codewilla/)](https://www.linkedin.com/in/codewilla/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://maneesh-code.github.io/portfolio/)](https://maneesh-code.github.io/portfolio/)
 
 ### 📫 Like to meet me?
